@@ -1,3 +1,1 @@
-Windows Form app simulating atm payout
-
-"mp" in variables means initials of author.
+University project made in Windows Form app that simulating atm payout
