@@ -1,1 +1,1 @@
-University project made in Windows Form app that simulating atm payout
+University project made in Windows Form that simulating atm payout
